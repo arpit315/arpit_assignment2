@@ -24,7 +24,7 @@ http://arpit-static-site-123.s3-website.ap-south-1.amazonaws.com/
 * Includes `index.html` at root level
 * AWS username visible
 
-![S3 Objects](objects.png)
+![S3 Objects](object.png)
 
 
 ---
@@ -36,7 +36,7 @@ http://arpit-static-site-123.s3-website.ap-south-1.amazonaws.com/
 * Version IDs displayed
 * AWS username visible
 
-![Versioning](multipleversions.png)
+![Versioning](Screenshot 2026-04-27 152458.png)
 
 ---
 
